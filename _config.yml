@@ -24,7 +24,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: 2052745 
+title: 2052745 Kim Yoo Been
 email: 2052745@donga.ac.kr
 author: GitHub User
 
@@ -157,8 +157,8 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Oss 개발 02분반"
-#     subheading: "2052745 김유빈"
+#     heading: "Oss"
+#     subheading: "2052745 Kim Yoo Been"
 #     banner: "Your image url"
 
 # Banner default settings
