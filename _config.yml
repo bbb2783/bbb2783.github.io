@@ -157,8 +157,8 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Oss"
-#     subheading: "2052745 김유빈"
+#     heading: "Your awesome heading1"
+#     subheading: "Your awesome subheading2"
 #     banner: "Your image url"
 
 # Banner default settings
