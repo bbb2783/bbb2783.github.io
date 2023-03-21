@@ -157,9 +157,10 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Oss"
-#     subheading: "2052745 Kim Yoo Been"
+#     heading: "Oss 개발 02분반."
+#     subheading: "2052745 김유빈."
 #     banner: "Your image url"
+
 
 # Banner default settings
 # These banner settings are for global banner default, but you can also
